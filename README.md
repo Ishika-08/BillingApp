@@ -67,6 +67,6 @@ python app/main.py
 
 ## **📷 Screenshots**  
 ### 💡 Billing App UI
-![Billing UI](screenshots/ui.png) 
+![Billing UI](screenshot/ui.png) 
 
 ---
