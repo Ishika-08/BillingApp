@@ -66,6 +66,7 @@ python app/main.py
 ---
 
 ## **📷 Screenshots**  
-_Add screenshots of your UI here (if needed)._  
+### 💡 Billing App UI
+![Billing UI](screenshots/ui.png) 
 
 ---
