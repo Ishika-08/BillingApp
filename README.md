@@ -31,18 +31,8 @@ pip install -r requirements.txt
 ```
 
 ### **3️⃣ Configure Environment Variables**  
-- **Rename** `.env.example` to `.env`:  
-  ```bash
-  cp .env.example .env
-  ```
-- Open `.env` and update your MySQL credentials:  
-  ```
-  DB_HOST=localhost
-  DB_USER=root
-  DB_PASSWORD=your_password_here
-  DB_NAME=billing_db
-  ```
-
+- **Rename** `.env.example` to `.env` and update your MySQL credentials:  
+ 
 ---
 
 ## **▶ Running the Application**  
