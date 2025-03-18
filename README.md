@@ -7,6 +7,11 @@ A **desktop-based Billing System** built using **PySide6 (Python GUI framework) 
 
 ---
 
+## 🎥 Demo Video  
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1VxsEeu8TihB4lCEFZetqrm0KnJl6n16P/view?usp=sharing)
+
+---
+
 ## **🚀 Features**  
 ✔ **Add Customers** – Save customer details (name & email).  
 ✔ **Add Bills** – Store billing amounts linked to customers.  
